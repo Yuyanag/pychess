@@ -1,3 +1,7 @@
+#made by yuyanag, enjoy playing :)
+
+
+
 class piece: 
     def __init__(self,icon,pos,colour):
         self.Icon = icon
